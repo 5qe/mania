@@ -1,0 +1,215 @@
+/* body {
+    background-image: url(background.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    filter: blur(8px);
+} */
+
+
+/* body {
+    background-color: #0a0a0a;
+    background-image: url(star.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 100px;
+    width: 100px;
+} */
+
+body {
+    background-size: cover;
+    background-attachment: fixed;
+    background-color: #0a0a0a;
+}
+
+h1 {
+    font-size: 3.991484832357637vw;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+     -khtml-user-select: none;
+       -moz-user-select: none;
+        -ms-user-select: none;
+            user-select: none;
+}
+el {
+    font-size: 2.12879191059074vw;
+    font-weight: 500;
+}
+
+.check {
+    text-align: center;
+    top: 50%;
+    left: 50%;
+    position: absolute;
+    color: #6c5ce7;
+    line-height: 2.12879191059074vw;
+    transform: translate(-50%, -50%);
+}
+
+
+#centered{
+    text-align: center;
+    font-size: 25px;
+ }
+
+.image {
+    margin-top: 40px;
+    margin-bottom: 50px;
+    margin-right: 75px;
+    margin-left: 40px;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+     -khtml-user-select: none;
+       -moz-user-select: none;
+        -ms-user-select: none;
+            user-select: none;
+  }
+
+
+.image2 {
+    float: right;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-right: 70px;
+    margin-left: 40px;
+    position: absolute;
+    top: 0;
+    right: 0;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+     -khtml-user-select: none;
+       -moz-user-select: none;
+        -ms-user-select: none;
+            user-select: none;
+  }
+
+
+
+
+
+  button{
+    border: none;
+    cursor: pointer;
+    appearance: none;
+    background-color: inherit;
+     transition: transform .7s ease-in-out;
+    margin-left:10px;
+
+  }
+  button:hover{
+    transform: rotate(360deg);
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .rcorners1 {
+    border-radius: 25px;
+    background: #6c5ce7;
+    padding: 20px;
+    width: 150px;
+    height: 50px;
+    float: right;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-right: 50px;
+    margin-left: 40px;
+    position: absolute;
+    top: 0;
+    right: 0;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+     -khtml-user-select: none;
+       -moz-user-select: none;
+        -ms-user-select: none;
+            user-select: none;
+}
+
+.rcorners2 {
+    border-radius: 25px;
+    background: #6c5ce7;
+    padding: 20px;
+    width: 150px;
+    height: 50px;
+    float: right;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-right: 300px;
+    margin-left: 40px;
+    position: absolute;
+    top: 0;
+    right: 0;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+     -khtml-user-select: none;
+       -moz-user-select: none;
+        -ms-user-select: none;
+            user-select: none;
+}
+
+.rcorners3 {
+    border-radius: 25px;
+    background: #6c5ce7;
+    padding: 20px;
+    width: 150px;
+    height: 50px;
+    float: right;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-right: 550px;
+    margin-left: 40px;
+    position: absolute;
+    top: 0;
+    right: 0;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+     -khtml-user-select: none;
+       -moz-user-select: none;
+        -ms-user-select: none;
+            user-select: none;
+}
+
+.rcorners4 {
+    border-radius: 25px;
+    background: #6c5ce7;
+    padding: 20px;
+    width: 150px;
+    height: 50px;
+    float: right;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-right: 800px;
+    margin-left: 40px;
+    position: absolute;
+    top: 0;
+    right: 0;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+     -khtml-user-select: none;
+       -moz-user-select: none;
+        -ms-user-select: none;
+            user-select: none;
+} */
